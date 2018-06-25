@@ -1,6 +1,6 @@
-export WORKDIR=/home/yans/code/angr/workbench/experiments/driller
+export WORKDIR=/home/newmaster/workbench/experiments/driller
 export EXPERIMENT=driller
-export WORKBENCH_DIR=/home/yans/code/angr/workbench
+export WORKBENCH_DIR=/home/newmaster/workbench
 
 # default pod configuration
 export DOCKER_IMG=registry.hub.docker.com/shellphish/mechaphish
